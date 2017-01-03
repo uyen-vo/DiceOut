@@ -1,0 +1,3 @@
+DiceOut game made to get more familiar with Android Studio. Learned how to reference resources, work with XML, connect it to Java code, basics like referencing widgets with Java code and interacting with it. Also learned about using image assets and maneuvering around the IDE in general.
+
+No point to the game. It randomly rolls three dice and adds points to score depending on the result. Doubles add 50 and triples add 100*amount on dice.
